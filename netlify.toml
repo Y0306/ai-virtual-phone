@@ -2,4 +2,3 @@
   from = "/v1/*"
   to = "https://api.astroflowing.com/v1/:splat"
   status = 200
-  force = true
