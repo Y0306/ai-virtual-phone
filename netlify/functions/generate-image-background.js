@@ -44,3 +44,7 @@ export default async (req, context) => {
     );
   }
 };
+
+export const config = {
+  background: true
+};
